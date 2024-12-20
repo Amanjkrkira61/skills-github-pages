@@ -1,0 +1,55 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-image: url('Aman.jpg');
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    text-align: center;
+}
+
+.container {
+    background-color: rgba(0, 0, 0, 0.6);
+    padding: 20px;
+}
+
+header h1 {
+    font-size: 3rem;
+    margin: 0;
+}
+
+header p {
+    font-size: 1.5rem;
+    margin: 5px 0 20px;
+}
+
+main section {
+    margin-top: 20px;
+}
+
+main h2 {
+    font-size: 2rem;
+}
+
+.product-image {
+    width: 300px;
+    margin-top: 10px;
+}
+
+footer {
+    margin-top: 30px;
+}
+
+footer h3 {
+    font-size: 1.8rem;
+}
+
+footer ul {
+    list-style: none;
+    padding: 0;
+}
+
+footer ul li {
+    font-size: 1.2rem;
+    margin: 5px 0;
+}
